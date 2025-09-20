@@ -13,8 +13,8 @@
 
 - **Backend:** Java, Spring Boot  
 - **Database:** MySQL  
-- **Frontend:** HTML, CSS, JavaScript, Thymeleaf  
-- **Security:** Spring Security, JWT (if implemented)  
+- **Frontend:** HTML, CSS, JavaScript
+- **Security:** Spring Security, JWT  
 
 ## How to Run
 
