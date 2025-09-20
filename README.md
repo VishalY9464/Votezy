@@ -1,0 +1,1 @@
+Votezy is a Spring Boot-based web application designed to deliver a fast, transparent, and secure digital voting experience. Built as a final-year major project, Votezy digitizes the traditional election process by allowing voters and candidates to register, cast votes, and view real-time election results — all through an intuitive online platform.
