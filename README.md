@@ -20,4 +20,4 @@
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/votezy.git
+   git clone https://github.com/VishalY9464/votezy.git
